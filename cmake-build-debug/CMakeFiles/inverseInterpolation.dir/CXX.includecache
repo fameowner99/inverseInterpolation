@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vmiachko/numAnal/inverseInterpolation/lab4.cpp
+iostream
+-
+vector
+-
+math.h
+-
+SDL2/SDL.h
+-
+
